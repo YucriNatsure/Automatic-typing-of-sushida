@@ -1,1 +1,2 @@
-# Automatic-typing-of-sushida
+# 寿司打の自動タイピングツール
+
